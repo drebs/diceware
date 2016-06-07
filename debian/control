@@ -1,7 +1,7 @@
 Source: diceware
 Maintainer: Micah Anderson <micah@debian.org>
 Uploaders: Andre Bianchi <drebs@riseup.net>
-Section: python
+Section: utils
 Priority: optional
 Build-Depends: python-setuptools, python-all, debhelper (>=9), dh-python
 Standards-Version: 3.9.7
