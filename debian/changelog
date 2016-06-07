@@ -1,3 +1,10 @@
+diceware (0.8-2) unstable; urgency=low
+
+  * Change package section to "utils". Closes: 826637
+  * Change package short decription.
+
+ -- Andre Bianchi <drebs@riseup.net>  Tue, 07 Jun 2016 15:14:46 -0300
+
 diceware (0.8-1) unstable; urgency=low
 
   * Initial debianization. Closes: 796709
