@@ -1,3 +1,10 @@
+diceware (0.9.1-1) unstable; urgency=medium
+
+  * Update debian copyright file.
+  * Package diceware 0.9.1.
+
+ -- Andre Bianchi <drebs@riseup.net>  Sun, 25 Dec 2016 12:26:57 -0200
+
 diceware (0.8-2) unstable; urgency=low
 
   * Change package section to "utils". Closes: 826637
